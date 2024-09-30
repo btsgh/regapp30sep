@@ -18,8 +18,16 @@
   "icon": "server",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Fire",
       "isDefault": true
+    },
+    {
+      "id": "Gsheet",
+      "isDefault": false
+    },
+    {
+      "id": "Snow",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
