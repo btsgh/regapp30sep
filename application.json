@@ -22,11 +22,11 @@
       "isDefault": true
     },
     {
-      "id": "Gsheet",
+      "id": "Page1",
       "isDefault": false
     },
     {
-      "id": "Snow",
+      "id": "Page2",
       "isDefault": false
     }
   ],

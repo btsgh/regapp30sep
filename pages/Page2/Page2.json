@@ -1,24 +1,22 @@
 {
-  "gitSyncId": "66fa860b257d3f558ed8c00a_17d8d081-bd77-4412-8927-ce85e610c9a0",
+  "gitSyncId": "66fa9d5c33c6db3d07d33084_6fe6d65f-5b9c-4831-aad9-86bf3329557e",
   "unpublishedPage": {
-    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 680,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 660,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 64,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 90,
@@ -27,7 +25,7 @@
         }
       }
     ],
-    "name": "Fire",
-    "slug": "fire"
+    "name": "Page2",
+    "slug": "page2"
   }
 }

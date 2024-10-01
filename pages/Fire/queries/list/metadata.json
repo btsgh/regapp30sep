@@ -57,7 +57,7 @@
       "pluginId": "firestore-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "name": "list",
     "pageId": "Fire",
     "userSetOnLoad": false
