@@ -18,7 +18,7 @@
   "icon": "server",
   "pages": [
     {
-      "id": "Fire",
+      "id": "First",
       "isDefault": true
     },
     {
@@ -26,7 +26,7 @@
       "isDefault": false
     },
     {
-      "id": "Page2",
+      "id": "Page2cond page",
       "isDefault": false
     }
   ],
