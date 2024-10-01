@@ -31,7 +31,7 @@
   "mobileRightColumn": 17,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('Fire', {}, 'NEW_WINDOW');}}",
+  "onClick": "{{navigateTo('Fire', {}, 'SAME_WINDOW');}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,
