@@ -1,9 +1,9 @@
 {
   "gitSyncId": "66fa9d5c33c6db3d07d33084_0d16eb53-613e-4632-80aa-c9087906a47c",
-  "id": "Page2_JSObject1",
+  "id": "Page1_Interval",
   "unpublishedCollection": {
-    "name": "JSObject1",
-    "pageId": "Page2",
+    "name": "Interval",
+    "pageId": "Page1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "variables": [

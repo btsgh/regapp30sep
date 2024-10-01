@@ -4,6 +4,7 @@
   "bottomRow": 22,
   "boxShadow": "none",
   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonStyle": "PRIMARY_BUTTON",
   "buttonVariant": "PRIMARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [
@@ -14,37 +15,29 @@
       "key": "borderRadius"
     }
   ],
-  "dynamicTriggerPathList": [
-    {
-      "key": "onClick"
-    }
-  ],
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "kxktgy906i",
-  "leftColumn": 1,
+  "key": "dlutly6rmi",
+  "leftColumn": 47,
   "minWidth": 120,
   "mobileBottomRow": 22,
-  "mobileLeftColumn": 1,
-  "mobileRightColumn": 17,
+  "mobileLeftColumn": 47,
+  "mobileRightColumn": 63,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "onClick": "{{appsmith.geolocation.watchPosition();}}",
-  "parentColumnSpace": 13.0625,
-  "parentId": "0",
-  "parentRowSpace": 10,
+  "parentId": "u2ol5n4na9",
   "placement": "CENTER",
   "recaptchaType": "V3",
   "renderMode": "CANVAS",
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
-  "rightColumn": 17,
-  "text": "Submit",
+  "rightColumn": 63,
+  "text": "Confirm",
   "topRow": 18,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "smo1mdcls3",
-  "widgetName": "Button1"
+  "widgetId": "5u0c1lrftd",
+  "widgetName": "Button3"
 }
